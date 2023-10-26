@@ -67,5 +67,13 @@ Install the dependencies needed to run the app:
    3. Use `PUT` method to Update a Product with `ID` = `https://dishoriyaanshul.pythonanywhere.com/api/shop/{id}`
    4. Use `Delete` method to Delete Product with `ID` = `https://dishoriyaanshul.pythonanywhere.com/api/shop/{id}`
    5. Use `GET` method to Access Documentation for all `API end points` = `https://dishoriyaanshul.pythonanywhere.com/api/schema/swagger-ui/`
+### Admin Access
+
+  `Endpoint` = https://dishoriyaanshul.pythonanywhere.com/admin/
+
+  `Username = admin`
+  
+  `Password = admin`
+
  
 
